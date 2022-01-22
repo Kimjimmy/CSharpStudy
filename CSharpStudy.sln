@@ -5,12 +5,6 @@ VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy.csproj", "{93CF0C9D-3CEA-4238-B3D4-1AD20D0BD767}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Study", "Study", "{6F682EA5-661B-44D5-8DC0-D907C3E731C9}"
-	ProjectSection(SolutionItems) = preProject
-		인터페이스.md = 인터페이스.md
-		인터페이스2.md = 인터페이스2.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
